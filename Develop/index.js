@@ -73,89 +73,89 @@ saveButton.on('click', function () {
 
     if (hour7 > currentHour) {
     change7.toggleClass('past, future')}
-    else if (hour7 === currentHour){
+    else if (hour7 == currentHour){
       change7.toggleClass('past, present')
     };
 
     if (hour8 > currentHour) {
       change8.toggleClass('past, future')}
-      else if (hour8 === currentHour){
+      else if (hour8 == currentHour){
         change8.toggleClass('past, present')
       };
 
       if (hour9 > currentHour) {
         change9.toggleClass('past, future')}
-        else if (hour9 === currentHour){
+        else if (hour9 == currentHour){
           change9.toggleClass('past, present')
         };
   console.log(hour10)
         
     if (hour10 > currentHour) {
       change10.toggleClass('past, future')}
-      else if (hour10 === currentHour){
+      else if (hour10 == currentHour){
         change10.toggleClass('past, present')
       };
 
       
     if (hour11 > currentHour) {
       change11.toggleClass('past, future')}
-      else if (hour11 === currentHour){
+      else if (hour11 == currentHour){
         change11.toggleClass('past, present')
       };
 
       
     if (hour12 > currentHour) {
       change12.toggleClass('past, future')}
-      else if (hour12 === currentHour){
+      else if (hour12 == currentHour){
         change12.toggleClass('past, present')
       };
 
       
     if (hour13 > currentHour) {
       change13.toggleClass('past, future')}
-      else if (hour13 === currentHour){
+      else if (hour13 == currentHour){
         change13.toggleClass('past, present')
       };
 
       
     if (hour14 > currentHour) {
       change14.toggleClass('past, future')}
-      else if (hour14 === currentHour){
+      else if (hour14 == currentHour){
         change14.toggleClass('past, present')
       };
 
       
     if (hour15 > currentHour) {
       change15.toggleClass('past, future')}
-      else if (hour15 === currentHour){
+      else if (hour15 == currentHour){
         change15.toggleClass('past, present')
       };
 
       
     if (hour16 > currentHour) {
       change16.toggleClass('past, future')}
-      else if (hour16 === currentHour){
+      else if (hour16 == currentHour){
         change16.toggleClass('past, present')
       };
 
       
     if (hour17 > currentHour) {
       change17.toggleClass('past, future')}
-      else if (hour17 === currentHour){
+      else if (hour17 == currentHour){
         change17.toggleClass('past, present')
       };
 
       
     if (hour18 > currentHour) {
       change18.toggleClass('past, future')}
-      else if (hour18 === currentHour){
+      else if (hour18 == currentHour){
         change18.toggleClass('past, present')
       };
 
       
     if (hour19 > currentHour) {
       change19.toggleClass('past, future')}
-      else if (hour19 === currentHour){
+      else if (hour19 == currentHour){
         change19.toggleClass('past, present')
       };
 
