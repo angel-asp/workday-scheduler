@@ -6,6 +6,17 @@ Create a simple calendar application that allows a user to save events for each 
 
 You'll need to use the Day.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
 
+
+
+####### links to resources used to help me complete this challenge!
+
+ helped me refresh on how to work with local storage -- https://www.w3schools.com/jsref/prop_win_localstorage.asp 
+ .val and .siblings where used after I read about then on the jquery website -- https://api.jquery.com/val/  &  https://api.jquery.com/siblings/
+ googled .this after reading it in a commit on the javascript file -- https://stackoverflow.com/questions/12481439/jquery-this-keyword
+ day.js formating -- https://day.js.org/docs/en/display/format
+ helped refresh if statments -- https://css-plus.com/2011/07/jquery-if-else-statements
+ stack overflow that helped me change classes -- https://stackoverflow.com/questions/3452778/jquery-change-class-name
+
 ## User Story
 
 ```md
