@@ -9,6 +9,7 @@ You'll need to use the Day.js library to work with date and time. Be sure to rea
 
 
 ####### links to resources used to help me complete this challenge!
+
  helped me refresh on how to work with local storage -- https://www.w3schools.com/jsref/prop_win_localstorage.asp 
  .val and .siblings where used after I read about then on the jquery website -- https://api.jquery.com/val/  &  https://api.jquery.com/siblings/
  googled .this after reading it in a commit on the javascript file -- https://stackoverflow.com/questions/12481439/jquery-this-keyword
